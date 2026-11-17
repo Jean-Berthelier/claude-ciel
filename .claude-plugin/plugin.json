@@ -1,0 +1,6 @@
+{
+  "name": "ciel",
+  "version": "0.1.0",
+  "description": "A sky behind the conversation whose gradient follows the time of day: dawn, daylight, golden hour, dusk and night.",
+  "types": "./types/index.d.ts"
+}
