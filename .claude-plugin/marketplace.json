@@ -1,0 +1,5 @@
+{
+  "name": "ciel-local",
+  "owner": { "name": "Jean-Berthelier" },
+  "plugins": [{ "name": "ciel", "source": "./" }]
+}
